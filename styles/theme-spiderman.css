@@ -2,14 +2,3 @@
 header { background: #eaf4ff; }
 h1 { letter-spacing: 0.5px; }
 article { border-left: 4px solid #cde3ff; padding-left: 1rem; }
-
-article>p:first-child {
-    color: #00ff1e;
-    line-height: 1.6;
-
-}
-
-article~p {
-    line-height: 1.6;
-    background-color:  #d7b322;
-}
