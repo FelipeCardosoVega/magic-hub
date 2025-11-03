@@ -21,3 +21,13 @@ article~p {
     line-height: 1.6;
     background-color: #d7b322;
 }
+
+.contenidorCarta{
+    display: flex;
+    gap: 20px;
+}
+.imatgeCarta{
+    width: 200px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+}
