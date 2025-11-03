@@ -18,9 +18,11 @@ article>p:first-child {
 }
 
 article~p {
-    line-height: 1.6;
+    line-height: 1.7;
     background-color: #d7b322;
 }
+
+
 
 .contenidorCarta{
     display: flex;
