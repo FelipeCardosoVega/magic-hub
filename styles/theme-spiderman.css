@@ -7,8 +7,12 @@ article>p:first-child {
     line-height: 1.6;
 
 }
-
 article~p {
     line-height: 1.7;
     background-color: rgb(14, 220, 247);
+}
+.carta>img{
+    width: 200px;
+    border: 2px solid beige;
+    border-radius: 8px;
 }
